@@ -14,6 +14,8 @@ git branch -u origin/master<br>
 git config --global push.default current<br>
 git checkout -b master<br>
 git pull origin master --force<br>
-<br><br>
+<br>
 git config --global user.name 'Name'<br>
 touch .gitignore<br>
+git reset HEAD file.txt<br>
+git commit -am 'commit changes'
