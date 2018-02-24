@@ -5,6 +5,10 @@
 ---
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNi2q4gZA2wqWGSDFSN8FsdLK6-DrkADRIGVkNSTlQgpIXUDZCL-D_DdDNadCtw77WbTbxaZf3ZwrX/pubhtml?gid=1450898108&single=true">>>Rezultatai<<</a>
 ---
+
+<TABLE style="width:200px;box-shadow: 0 0 10px rgba(0,0,0,0.5);border:none;" cellspacing="0" cellpadding="0"><TBODY>
+	<TR>
+		<TD style="border:2px ridge #404040;background-color:rgba(255,255,255,0.8);padding:10px;">
 git init<br>
 git add README.md<br>
 git commit -m "first commit"<br>
@@ -22,3 +26,7 @@ git commit -am 'commit changes'<br>
 <br>
 git log<br>
 git checkout 123a123 -- file.txt<br>
+		</TD>
+	</TR>
+</TBODY></TABLE>
+
