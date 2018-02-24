@@ -7,7 +7,7 @@
 ---
 
 <TABLE style="width:200px;box-shadow: 0 0 10px rgba(0,0,0,0.5);border:none;" cellspacing="0" cellpadding="0"><TBODY>
-<TR><TD style="border:4px ridge #404040;background-color:rgba(240,240,240,0.8);padding:10px;">
+<TR><TD style="padding:10px;">
 
 git init<br>
 git add README.md<br>
