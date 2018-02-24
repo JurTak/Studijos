@@ -18,4 +18,7 @@ git pull origin master --force<br>
 git config --global user.name 'Name'<br>
 touch .gitignore<br>
 git reset HEAD file.txt<br>
-git commit -am 'commit changes'
+git commit -am 'commit changes'<br>
+<br>
+git log<br>
+git checkout 123a123 -- file.txt<br>
