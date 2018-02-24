@@ -6,8 +6,7 @@
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNi2q4gZA2wqWGSDFSN8FsdLK6-DrkADRIGVkNSTlQgpIXUDZCL-D_DdDNadCtw77WbTbxaZf3ZwrX/pubhtml?gid=1450898108&single=true">>>Rezultatai<<</a>
 ---
 
-<TABLE style="width:200px;box-shadow: 0 0 10px rgba(0,0,0,0.5);border:none;" cellspacing="0" cellpadding="0"><TBODY>
-<TR><TD style="padding:10px;">
+<TABLE style="width:200px;box-shadow: 0 0 10px rgba(0,0,0,0.5);border:none;" cellspacing="0" cellpadding="0"><TBODY><TR><TD>
 
 git init<br>
 git add README.md<br>
